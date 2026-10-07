@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volume Screen Control ASUS</string>
+    <string name="accessibility_service_name">Volume Screen Control</string>
+    <string name="accessibility_description">Menggunakan tombol Volume untuk menyalakan atau mengunci layar.</string>
+    <string name="accessibility_summary">Volume Up = layar ON, Volume Down = layar OFF.</string>
+    <string name="device_admin_description">Memungkinkan aplikasi mengunci layar saat Volume Down ditekan.</string>
+</resources>
